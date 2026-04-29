@@ -1,0 +1,11 @@
+/.venv
+skills.py
+skills.db
+token.json
+credentials.json
+/__pycache__
+/.vscode
+.env
+*.pdf
+job_agent.db
+pending_links.txt
